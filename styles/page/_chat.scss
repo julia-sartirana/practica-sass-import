@@ -4,7 +4,9 @@ body {
 
 .wrapper {
   display:flex;
-  height: 845px  
+  height: 845px;
+  font-family: $font-sans; 
+  font-size: $font-size-primary; 
 }
 
 .main-footer-container {
