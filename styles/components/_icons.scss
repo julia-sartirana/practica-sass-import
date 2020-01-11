@@ -1,0 +1,105 @@
+
+i {
+  color: $color-secundary;
+}
+footer {
+  i {
+    position: absolute;
+    font-size: $size-icons-medium;
+    top: calc(50% - 8px); 
+    
+  }
+}
+.fa-image {
+  
+  left: 25px;
+}
+.fa-microphone {
+    
+  right: 30px;
+}
+//-------------------- HEADER --------------------
+.fa-search {
+  position: absolute;
+  left: 10px;
+  top: calc(50% - 7px);
+}
+.fa-less-than {
+  margin: 0px 10px;
+}
+.edit-icons-container {
+  position: relative;
+
+  i {
+    margin: 0px 5px;
+  }
+
+  .fa-circle {
+    color: $circle-green;
+    position: absolute;
+    right: 27px;
+  }
+}
+.fa-circle {
+  font-size: $size-icons-small;
+}
+
+.fa-stream-container {
+  position: relative;
+
+  .fa-circle {
+    color: $circle-red;
+    position: absolute;
+    right: -7px;
+  }
+}
+//------------------- ASIDE CONTACTS ---------------
+
+.img-icon-container {
+
+  i {
+    position: absolute;
+    right: 73px;
+  }
+}
+.circle-firts {
+  color: #1ad1ff;
+}
+
+.circle-second {
+  color: #ff9933;
+}
+
+.circle-third {
+  color: $circle-green;
+}
+//------------------------ ASIDE CALL -------------------------
+
+.icons-call-aside-container {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  align-items: center;
+
+  .fa-moon {
+    background-color: $circle-green;
+  }
+
+  .fa-user-times {
+    background-color: $circle-red;
+  }
+
+  .fas {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 0px 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+}
+
+
+

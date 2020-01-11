@@ -1,0 +1,244 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_dialog\.scss}line{font-family:\000031}}
+.chat-img-container {
+  display: flex;
+  flex-direction: column;
+  line-height: 20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_dialog\.scss}line{font-family:\000036}}
+  .chat-img-container img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_dialog\.scss}line{font-family:\0000312}}
+  .chat-img-container p {
+    width: 400px;
+    margin: 0;
+    padding: 10px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_dialog\.scss}line{font-family:\0000319}}
+.right {
+  align-items: flex-end; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_dialog\.scss}line{font-family:\0000322}}
+  .right p {
+    background-color: #6f7399;
+    color: #fdfdfe;
+    border-radius: 15px 0px 15px 15px;
+    margin-right: 40px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_dialog\.scss}line{font-family:\0000332}}
+.left p {
+  border-radius: 0px 15px 15px 15px;
+  margin-left: 40px;
+  background-color: #e0dadd; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_dialog\.scss}line{font-family:\0000340}}
+footer {
+  border: 1px solid #e0dadd;
+  line-height: 50px;
+  text-align: center;
+  position: relative; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_dialog\.scss}line{font-family:\0000346}}
+  footer input {
+    width: 80%;
+    line-height: 25px;
+    border-radius: 20px;
+    border: 1px solid #e0dadd;
+    padding-left: 20px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_icons\.scss}line{font-family:\000032}}
+i {
+  color: #e0dadd; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_icons\.scss}line{font-family:\000036}}
+footer i {
+  position: absolute;
+  font-size: 20px;
+  top: calc(50% - 8px); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_icons\.scss}line{font-family:\0000313}}
+.fa-image {
+  left: 25px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_icons\.scss}line{font-family:\0000317}}
+.fa-microphone {
+  right: 30px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_icons\.scss}line{font-family:\0000322}}
+.fa-search {
+  position: absolute;
+  left: 10px;
+  top: calc(50% - 7px); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_icons\.scss}line{font-family:\0000327}}
+.fa-less-than {
+  margin: 0px 10px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_icons\.scss}line{font-family:\0000330}}
+.edit-icons-container {
+  position: relative; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_icons\.scss}line{font-family:\0000333}}
+  .edit-icons-container i {
+    margin: 0px 5px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_icons\.scss}line{font-family:\0000337}}
+  .edit-icons-container .fa-circle {
+    color: #44cc00;
+    position: absolute;
+    right: 27px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_icons\.scss}line{font-family:\0000343}}
+.fa-circle {
+  font-size: 12px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_icons\.scss}line{font-family:\0000347}}
+.fa-stream-container {
+  position: relative; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_icons\.scss}line{font-family:\0000350}}
+  .fa-stream-container .fa-circle {
+    color: #ff3333;
+    position: absolute;
+    right: -7px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_icons\.scss}line{font-family:\0000360}}
+.img-icon-container i {
+  position: absolute;
+  right: 73px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_icons\.scss}line{font-family:\0000365}}
+.circle-firts {
+  color: #1ad1ff; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_icons\.scss}line{font-family:\0000369}}
+.circle-second {
+  color: #ff9933; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_icons\.scss}line{font-family:\0000373}}
+.circle-third {
+  color: #44cc00; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_icons\.scss}line{font-family:\0000378}}
+.icons-call-aside-container {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  align-items: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_icons\.scss}line{font-family:\0000384}}
+  .icons-call-aside-container .fa-moon {
+    background-color: #44cc00; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_icons\.scss}line{font-family:\0000388}}
+  .icons-call-aside-container .fa-user-times {
+    background-color: #ff3333; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/components\/_icons\.scss}line{font-family:\0000392}}
+  .icons-call-aside-container .fas {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 0px 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/layout\/_contacts\.scss}line{font-family:\000031}}
+.aside-contact-wrapper .contact-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/layout\/_contacts\.scss}line{font-family:\000036}}
+.aside-contact-wrapper {
+  width: 15%;
+  border-top: 1px solid #e0dadd;
+  justify-content: space-between;
+  background-color: #e0dadd; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/layout\/_contacts\.scss}line{font-family:\0000312}}
+.contact-container {
+  padding: 30px 0px;
+  width: 100%;
+  height: calc(120px - 35px);
+  justify-content: center;
+  position: relative; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/layout\/_contacts\.scss}line{font-family:\0000320}}
+  .contact-container img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/layout\/_contacts\.scss}line{font-family:\0000326}}
+  .contact-container span {
+    text-align: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/layout\/_contacts\.scss}line{font-family:\0000332}}
+.contact-jonathan {
+  background-color: #fdfdfe; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/layout\/_searchbar\.scss}line{font-family:\000031}}
+.aside-call-wrapper {
+  width: 25%;
+  border-top: 1px solid #e0dadd;
+  border-bottom: 1px solid #e0dadd; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/layout\/_searchbar\.scss}line{font-family:\000038}}
+.title-icons-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 20px;
+  height: 281px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/layout\/_searchbar\.scss}line{font-family:\0000316}}
+.icon-aside {
+  padding: 0px 10px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/layout\/_searchbar\.scss}line{font-family:\0000320}}
+.user-img-container {
+  height: 281px;
+  text-align: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/layout\/_searchbar\.scss}line{font-family:\0000325}}
+.user-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/layout\/_header\.scss}line{font-family:\000031}}
+.header-container, .search-wrapper, .input-container {
+  display: flex;
+  align-items: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/layout\/_header\.scss}line{font-family:\000036}}
+.header-container {
+  justify-content: space-between;
+  padding: 10px 30px;
+  line-height: 30px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/layout\/_header\.scss}line{font-family:\0000312}}
+.search-wrapper {
+  flex-direction: row-reverse; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/layout\/_header\.scss}line{font-family:\0000316}}
+.input-container {
+  position: relative; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/layout\/_header\.scss}line{font-family:\0000319}}
+  .input-container input {
+    border: 1px solid #e0dadd;
+    border-radius: 20px;
+    padding-left: 30px;
+    line-height: 25px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/page\/_chat\.scss}line{font-family:\000031}}
+body {
+  margin: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/page\/_chat\.scss}line{font-family:\000035}}
+.wrapper {
+  display: flex;
+  height: 845px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/page\/_chat\.scss}line{font-family:\0000310}}
+.main-footer-container {
+  width: 60%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/sistema\.sistema-PC\/Documents\/ADA\/Clase\%2023\%20-\%20Practica\%20sass\/practica-sass-import\/styles\/page\/_chat\.scss}line{font-family:\0000314}}
+.main-wrapper {
+  padding: 30px;
+  border: 1px solid #e0dadd; }
+
+/*# sourceMappingURL=main.css.map */

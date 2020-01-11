@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+
+.wrapper {
+  display:flex;
+  height: 845px  
+}
+
+.main-footer-container {
+  width: 60%;
+}
+
+.main-wrapper {  
+  padding: 30px;
+  border: 1px solid $color-secundary;  
+}

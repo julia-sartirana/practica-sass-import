@@ -1,0 +1,27 @@
+.header-container, .search-wrapper, .input-container {
+  display: flex;
+  align-items: center;
+}
+
+.header-container {
+  
+  justify-content: space-between;
+  padding: 10px 30px;
+  line-height: 30px;
+}
+.search-wrapper {  
+  flex-direction: row-reverse;
+  
+}
+.input-container {
+  position: relative;
+  
+  input {
+    border: 1px solid $color-secundary;
+    border-radius: 20px;
+    padding-left: 30px;
+    line-height: 25px;
+  }
+  
+}
+
